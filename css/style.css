@@ -1,0 +1,50 @@
+.header{
+ background-color: #339FFF;
+ min-height: 80px;
+ color: white;
+ font-size: 35px;
+}
+.container{
+  overflow: hidden;
+}
+.blog{
+float: left;
+min-height:100px;
+background-color:#FF337A;
+width:60%;
+color: white;
+ font-size: 35px;
+}
+.contact{
+float: right;
+min-height:100px;
+background-color:#FF5E33;
+width:40%;
+color: white;
+ font-size: 35px;
+}
+.single{
+	float: left;
+	min-height: 150px;
+	width: 25%;
+}
+.green{
+background-color: green;
+}
+.red{
+background-color: red;
+}
+.skyblue{
+background-color: skyblue;
+}
+.purple{
+background-color: purple;
+}
+
+.footer{
+	
+ background-color: #339FFF;
+ min-height: 80px;
+ color: white;
+ font-size: 35px;
+}
